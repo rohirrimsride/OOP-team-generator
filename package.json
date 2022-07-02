@@ -1,0 +1,26 @@
+{
+  "name": "oop-team-generator",
+  "version": "1.0.0",
+  "description": "Application for generating team members information",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohirrimsride/OOP-team-generator.git"
+  },
+  "author": "rohirrimsride",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohirrimsride/OOP-team-generator/issues"
+  },
+  "homepage": "https://github.com/rohirrimsride/OOP-team-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^28.1.2"
+  }
+}
