@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/rohirrimsride/OOP-team-generator#readme",
   "dependencies": {
-    "inquirer": "^8.0.0",
+    "inquirer": "^8.2.4",
     "jest": "^28.1.2"
   }
 }
