@@ -13,6 +13,9 @@
   - [License](#license)
   - [Tests](#tests)
   - [Questions](#questions)
+  
+  ## Video Walkthrough
+  https://watch.screencastify.com/v/B9aVmcNmkTV1LoF31OI8
 
   ## Installation
   Pull this repo, check the package.json for dependencies and install as needed.  Then run node index in the terminal.
